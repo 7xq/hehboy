@@ -2,3 +2,7 @@
 	path = techpack/audio
 	url = git@github.com:MiCode/vendor_qcom_opensource_audio-kernel.git
 	branch = pipa-t-oss
+[submodule "techpack/data"]
+	path = techpack/data
+	url = git@github.com:MiCode/vendor_qcom_opensource_data-kernel.git
+	branch = pipa-t-oss
